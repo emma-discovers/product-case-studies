@@ -75,7 +75,6 @@ An event-based chatbot could automate communication and increase conversion.
 
 **Metrics**
 - Conversion from events to flagship banking product: +70%.
-- Registrations scaled 2.5x.
 - Email segment grew 30% MoM.
 
 **Learnings**  
