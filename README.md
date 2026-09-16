@@ -96,13 +96,13 @@ If we turn our most engaged users into ambassadors, they will bring friends and 
 **Solution (as built)**
 - Launched a referral program with a full ambassador infrastructure: training, events, networking, a personal ambassador dashboard, referral links and generation.
 - Participation was free; ambassadors were paid a share of purchases made through their referrals.
-- The entire infrastructure — training, platform, links, dashboard — was built by my team and me.
+- The entire infrastructure (training, platform, links, dashboard) was built by my team and me.
 
 **What went wrong**  
 We invested heavily in infrastructure before validating demand. We never asked users whether they actually wanted this. We built a product that seemed exciting to us but was not solving a real pain point for the audience. The hypothesis was pitched by the founder and accepted without sufficient discovery.
 
 **Metrics**
-- 25% of email traffic registered (target was 10% — above expectations).
+- 25% of email traffic registered (target was 10%, above expectations).
 - Engagement and completed transactions were far below target.
 - No meaningful traffic or revenue impact after 6 months.
 
@@ -117,13 +117,13 @@ Validate demand before building complex infrastructure. Even a trusted, authorit
 ## Case 5: Gamification That Backfired — How We Fixed It
 
 **Context**  
-A corporate learning platform for 10,000+ employees, part of a large enterprise. One of the strategic priorities was increasing employee engagement with internal development tools — learning, knowledge sharing, assessments, and talent pool participation.
+A corporate learning platform for 10,000+ employees, part of a large enterprise. One of the strategic priorities was increasing employee engagement with internal development tools: learning, knowledge sharing, assessments, and talent pool participation.
 
 **Problem**  
 Engagement with learning content was low. completion rate was underperforming against targets.
 
 **Hypothesis**  
-Gamification — points for completed lessons, levels, visual achievements — would increase engagement and completion.
+Gamification (points for completed lessons, levels, visual achievements) would increase engagement and completion.
 
 **Solution (first iteration)**
 - Added points for completed lessons, levels, and achievement badges.
@@ -154,7 +154,7 @@ We had built a mechanic that incentivized simulated activity instead of actual l
 We returned meaning to the product. People started using the platform and development tools, and, more importantly, applying the practices in their work, not just clicking for a badge.
 
 **Learnings**  
-Metrics can lie if you don't look beneath the surface. Gamification is not universal — it must match the motivation patterns of the specific audience. And when a mechanic "migrates" from another segment, it must be re-validated, not copied.
+Metrics can lie if you don't look beneath the surface. Gamification must match the motivation patterns of the specific audience. And when a mechanic "migrates" from another segment, it must be re-validated, not copied.
 
 ---
 
