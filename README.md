@@ -45,7 +45,7 @@ Voice simulation and trigger-based learning could improve retention and reduce o
 
 **Solution**
 - Piloted voice simulation for hands-on practice.
-- Introduced trigger-based learning — short modules delivered at the moment of need.
+- Introduced trigger-based learning (short modules delivered at the moment of need).
 - Measured impact over 6 months.
 
 **Metrics**
